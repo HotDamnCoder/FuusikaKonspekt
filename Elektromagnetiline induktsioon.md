@@ -84,7 +84,7 @@ Magnetvoog sõltub:
 * magnetvälja tugevusest
 * pinna asendist magnetvälja jõujoonte suhtes
 
-`Φ = B * S * cos(α) = n * B * S * cos(α)`, kus `n` on keerdude arvˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇˇ
+`Φ = B * S * cos(α) = n * B * S * cos(α)`, kus `n` on keerdude arv
 
 Magnetvoog on maksimaalne, kui pind on risti jõujoontega.
 
