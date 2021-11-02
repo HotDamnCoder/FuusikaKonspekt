@@ -24,8 +24,6 @@ Kui magnetvälja tekitaja vaatleja suhtes liigub, siis muutub magnetväli vaatle
 
 **Elektromagnetlaine** - elektromagnet võnkumiste levimine ruumis
 
-\
-
 ---
 
 ## Pööriselektriväli
@@ -70,8 +68,6 @@ Pinge juhtme otstele (või õigemini elektromotoorjõud) leitakse valemiga:
 
 `E_i = v * l * B * sin(α)`
 
-\
-
 ---
 
 ## Magnetvoog
@@ -100,8 +96,6 @@ Kui on palju keerde, siis magnetvoog võetakse summaarsena `ΔΦ = E_i = Δt`
 
 `1 Wb` on selline magnetvoo muutus, mis `1 sekundi` jooksul toimudes tekitab elektromootorjõu `1 V`
 
-\
-
 ---
 
 ## Lenz’i reegel
@@ -109,8 +103,6 @@ Kui on palju keerde, siis magnetvoog võetakse summaarsena `ΔΦ = E_i = Δt`
 1. induktsioonivoolu suund on selline, et tema magnetväli takistaks muutust, mis voolu põhjustab
 2. induktsioonivool toimib alati vastupidiselt seda voolu esile kutsuvale põhjusele;
 3. kui välismõju tingib magnetvoo kasvu kontuuris, siis on induktsioonivoolu magnetväli välise magnetvälja suhtes vastassuunaline (takistab kasvu). Kui aga välismõju põhjustab magnetvoo kahanemist, siis on induktsioonivoolu magnetväli välise magnetväljaga samasuunaline (takistab kahanemist).
-
-\
 
 ---
 
@@ -136,8 +128,6 @@ Juhtmesüsteemi vastavad omaduste kirjeldamiseks on kasutusele võetud induktiiv
 
 Juhi induktiivsus näitab, kui suure magnetvoo muutus tekitab selle juhi korral ühikuline voolu muutus.
 
-\
-
 ---
 
 ## Magnetvälja energia
@@ -146,8 +136,4 @@ Tegelikult on tegemist vooluga poolis tekkiva energiaga.
 
 `W_m = L * I^2 / 2`
 
-\
-
 ---
-
-\
