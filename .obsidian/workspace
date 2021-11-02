@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "b0784cc0f010af94",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6b70dd7494776c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8179de86bb6da317",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4703d8e83461955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45af857afa8c8a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a30f1e541bbbfe25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c1c463545b2313a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f62668e0447b94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b51504b58e77245",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fddbbb4a243bcab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b6b70dd7494776c",
+  "lastOpenFiles": [
+    "Elektromagnetiline induktsioon.md",
+    "Elektromagnetlained.md"
+  ]
+}
