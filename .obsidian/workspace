@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6b70dd7494776c",
+        "id": "95b64d8936e87be8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Elektromagnetiline induktsioon.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -64,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Elektromagnetiline induktsioon.md"
+              }
             }
           },
           {
@@ -82,7 +87,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4b6b70dd7494776c",
+  "active": "95b64d8936e87be8",
   "lastOpenFiles": [
     "Elektromagnetiline induktsioon.md",
     "Elektromagnetlained.md"

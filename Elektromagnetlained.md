@@ -1,9 +1,6 @@
-﻿# Elektromagnetlained
-
+# Elektromagnetlained
 ## Elektromagnet võnkumised
-
 ### Vahelduvvool ja selle kirjeldamine
-
 **Vahelduvvooluks** nimetatakse elektrivoolu, mille korral voolutugevus perioodiliselt muutub.
 
 Reeglina muutub voolusuund.
@@ -29,13 +26,11 @@ Vahelduvvoolu pistikus peaks olema kolm juhet:
 Vahelduvvool tekitatakse mehaanlise generaatoriga.
 
 #### Kolmefaasiline vool (tööstusvool)
-
 Kujutab endas 3 elektrivooluga juhet ja ühte nulljuhet. Vooluga juhtmetes on voolu faasivahe on 120 kraadi.
 
 Kolmefaasilist voolu kasutatakse suurte võimsuste juures.
 
 #### Takistused vahelduvvoolu ahelas
-
 Vahelduvvoolu ahelas on 3 liiki takistusi:
 
 * **aktiivtakistus**
@@ -65,7 +60,6 @@ Kui sagedus on vool, siis on takistus lõpmatu suur ehk alalisvool ei läbi kond
 `I_o = U_o / Z`
 
 ### Vahelduvvoolu võimsus
-
 Võimsuse järgi võib koduseid seadmeid jaotada 3 rühma:
 
 * Audio, video ja muud seadmed - nende energiatarbe pole väga suur, üldjuhul tarbivad alalisvoolu
@@ -82,7 +76,6 @@ Vahelduvvoolu võimsus - `P = U * I cos(Φ)` `P_ef = 0.5 * P_m`
 
 ---
 ## Trafo
-
 **Trafo** on elektromagneetliisel induktsioonil põhineb staatiline energiamuundur, mis võimaldab vahelduvpinget ja vasatavalt vahelduvvoolu konstantne pingel. Koosneb raudsüdamikust ja 2 või enamast poolist.
 
 Trafol on kaks mähist:  **primaar**- ja **sekundaarmähis.**
@@ -102,7 +95,6 @@ Kui n = 1, siismidagi ei muutu, aga voolud on eraldatud.
 Trafode kasutegur on 95% - 99%.
 
 ### Trafode kasutamine
-
 * Elektrienergia ülekanne, et vähendada kadusid
 * Voolu tõstmine keevitamiseks
 * Vooluahelate sidestamiseks
@@ -110,7 +102,6 @@ Trafode kasutegur on 95% - 99%.
 
 ---
 ## Elektromagnetvõnkumine. Võnkering
-
 Võnkering on induktiivpoolist ja kondensaatorist koosnev elektriahel.
 
 `W_m = (L * I^2) / 2`
@@ -126,7 +117,6 @@ Võnkering saab oma energia kondensaatori laadumisest. Pärast pooli ühendamist
 Võnke sageduse leitakse Thomsoni valemiga `f_o = 1 / (2 * pi * sqrt(L * C)`
 
 ### Võnkeringi töö
-
 * Laaditakse kondensaator
 * Kondensaator hakkab läbi pooli tühjenema
 * Poolis tekib endainduktsiooni elektromotoorjõu, mis takistab voolukasv. Kui kondensaatori pinge on 0, siis on voolutugevus maksimaalne.
@@ -137,7 +127,6 @@ Võnke sageduse leitakse Thomsoni valemiga `f_o = 1 / (2 * pi * sqrt(L * C)`
 
 ---
 ## Elektromagnetväli ja -lained
-
 Elektromagnetvõnkumine - võnkeringis tekkinud võnkumine.
 
 Elektri- ja magnetväli moodustavad ühtse terviku - elektromagnetvälja.
@@ -171,7 +160,6 @@ Kiirgavate elektromagnetlainete energia kohta kehtib seos:
 * Suurem sagedus → väiksem lainepikkus
 
 ### Elektromagnetlainete omadused
-
 * Peegelduvad metallpindadelt
 * Esineb difraktsioon - paindumine tõkete taha
 * Esineb interferents - lainete liitumine
@@ -180,7 +168,6 @@ Kiirgavate elektromagnetlainete energia kohta kehtib seos:
 * Tekivad ja kaovad kindlate energia portsjonite e kvantide kaupa `E = h * f`
 
 ### Elektromagnetlainete skaala
-
 Sagedus ja lainepikkus on omavahel seotud.
 
 Jaotatakse sageduse põhjal:
@@ -193,3 +180,5 @@ Jaotatakse sageduse põhjal:
   * ultraviolet
 * röntgenkiirgus
 * gammakiirgus
+
+---
