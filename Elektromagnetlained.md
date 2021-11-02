@@ -42,17 +42,14 @@ Vahelduvvoolu ahelas on 3 liiki takistusi:
 * **mahtuvustakistus**
 * **induktviitakistus**
 
-\
 **Aktiivtakistus** `R` on takistus, mis on olemas ka alalisvoolu korral ja on põhjustatud laengukandjate vastastikmõjust ioonidega.
 
 Pinge ja voolutugevus muutuvad samas faasis.
 
-\
 **Induktviitakistus** `R_l`  on takistus, mida tekitab vahelduvoolu ahelasse lülitatud pool. Tekib tänu endainduktsiooninähtusele. Pinge ja takistus eri faasis.
 
 `R_l = X_l = w * L`
 
-\
 **Mahutuvustakistus** `R_c` on takistus, mida tekitab vahelduvvoolu ahelasse lülitatud kondensaator. Pinge ja takistus eri faasis.
 
 Kondensaatorit võib vaadelda lisa vooluallikana, mis takistab voolu muutumist.
@@ -61,14 +58,12 @@ Kondensaatorit võib vaadelda lisa vooluallikana, mis takistab voolu muutumist.
 
 Kui sagedus on vool, siis on takistus lõpmatu suur ehk alalisvool ei läbi kondensaatorit.
 
-\
 **Kogutakistus** `Z` pole takistuste summa, kuna nendes esineb faasi vahe.
 
 `Z = sqrt(R^2 + (R_l - R_c)^2)`
 
 `I_o = U_o / Z`
 
-\
 ### Vahelduvvoolu võimsus
 
 Võimsuse järgi võib koduseid seadmeid jaotada 3 rühma:
@@ -85,10 +80,7 @@ Vahelduvvoolu võimsus - `P = U * I cos(Φ)` `P_ef = 0.5 * P_m`
 
 `Φ` on faasivahe.
 
-\
-
 ---
-
 ## Trafo
 
 **Trafo** on elektromagneetliisel induktsioonil põhineb staatiline energiamuundur, mis võimaldab vahelduvpinget ja vasatavalt vahelduvvoolu konstantne pingel. Koosneb raudsüdamikust ja 2 või enamast poolist.
@@ -116,6 +108,7 @@ Trafode kasutegur on 95% - 99%.
 * Vooluahelate sidestamiseks
 * Infoseadmetes tööpinge saamiseks
 
+---
 ## Elektromagnetvõnkumine. Võnkering
 
 Võnkering on induktiivpoolist ja kondensaatorist koosnev elektriahel.
@@ -142,6 +135,7 @@ Võnke sageduse leitakse Thomsoni valemiga `f_o = 1 / (2 * pi * sqrt(L * C)`
 * Kondensaator on laadunud vastupidiselt.
 * Voolusuunud muutub ja tsükkel hakkab uuesti.
 
+---
 ## Elektromagnetväli ja -lained
 
 Elektromagnetvõnkumine - võnkeringis tekkinud võnkumine.
@@ -199,5 +193,3 @@ Jaotatakse sageduse põhjal:
   * ultraviolet
 * röntgenkiirgus
 * gammakiirgus
-
-\
