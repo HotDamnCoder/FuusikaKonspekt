@@ -1,3 +1,4 @@
+# Eelmine ptk - [[Elektromagnetiline induktsioon]]
 # Elektromagnetlained
 ## Elektromagnet võnkumised
 ### Vahelduvvool ja selle kirjeldamine
@@ -75,6 +76,7 @@ Vahelduvvoolu võimsus - `P = U * I cos(Φ)` `P_ef = 0.5 * P_m`
 `Φ` on faasivahe.
 
 ---
+
 ## Trafo
 **Trafo** on elektromagneetliisel induktsioonil põhineb staatiline energiamuundur, mis võimaldab vahelduvpinget ja vasatavalt vahelduvvoolu konstantne pingel. Koosneb raudsüdamikust ja 2 või enamast poolist.
 
@@ -101,6 +103,7 @@ Trafode kasutegur on 95% - 99%.
 * Infoseadmetes tööpinge saamiseks
 
 ---
+
 ## Elektromagnetvõnkumine. Võnkering
 Võnkering on induktiivpoolist ja kondensaatorist koosnev elektriahel.
 
@@ -126,6 +129,7 @@ Võnke sageduse leitakse Thomsoni valemiga `f_o = 1 / (2 * pi * sqrt(L * C)`
 * Voolusuunud muutub ja tsükkel hakkab uuesti.
 
 ---
+
 ## Elektromagnetväli ja -lained
 Elektromagnetvõnkumine - võnkeringis tekkinud võnkumine.
 

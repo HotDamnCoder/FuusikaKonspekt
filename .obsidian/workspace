@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elektromagnetiline induktsioon.md",
-            "mode": "preview"
+            "file": "Alalisvool.md",
+            "mode": "source"
           }
         }
       }
@@ -68,20 +68,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektromagnetiline induktsioon.md"
+                "file": "Alalisvool.md"
               }
             }
-          },
-          {
-            "id": "7fddbbb4a243bcab",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +80,13 @@
   },
   "active": "95b64d8936e87be8",
   "lastOpenFiles": [
+    "Alalisvool.md",
+    "Elektromagnetlained.md",
     "Elektromagnetiline induktsioon.md",
-    "Elektromagnetlained.md"
+    "Magnetism.md",
+    "Elektrostaatika.md",
+    "Sissejuhatus elektriõpetusse.md",
+    "Kosmoloogia.md",
+    "README.md"
   ]
 }

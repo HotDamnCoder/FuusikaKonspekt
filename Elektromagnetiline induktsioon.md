@@ -1,7 +1,6 @@
+# Eelmine ptk - [[Magnetism]]
 # Elektromagnetiline induktsioon
-
 ## Elektromagnetism
-
 **Elektromagnetism** käsitleb elektri- ja magnetnähtuste omavahelisi seoseid ja vastastikke muundumisi. Vaatleb laetud osakeste mitteühtlast liikumist.
 
 Enam ei ole võimalik vaadata elektri- ja magnetnähtusi üksteisest lahus.
@@ -25,8 +24,8 @@ Kui magnetvälja tekitaja vaatleja suhtes liigub, siis muutub magnetväli vaatle
 **Elektromagnetlaine** - elektromagnet võnkumiste levimine ruumis
 
 ---
-## Pööriselektriväli
 
+## Pööriselektriväli
 **Pööriselektriväli** - elektriväli, mille jõujooned on kinnised, kõverad ehk pöörised. See väli ei ole enam potentsiaalne - töö kinnisel kõveral ei ole enam 0
 
 Elektrimootorite ja generaatorite põhiosad:
@@ -68,8 +67,8 @@ Pinge juhtme otstele (või õigemini elektromotoorjõud) leitakse valemiga:
 `E_i = v * l * B * sin(α)`
 
 ---
-## Magnetvoog
 
+## Magnetvoog
 **Magnetvoo** tähis on `Φ`.
 
 **Magnetvoog** näitab millisel määral läbivad magnetvälja jõujooned vaadeldavat pinda selle pinna suuruse ja asendi tõtu magnetväljas.
@@ -95,15 +94,15 @@ Kui on palju keerde, siis magnetvoog võetakse summaarsena `ΔΦ = E_i = Δt`
 `1 Wb` on selline magnetvoo muutus, mis `1 sekundi` jooksul toimudes tekitab elektromootorjõu `1 V`
 
 ---
-## Lenz’i reegel
 
+## Lenz’i reegel
 1. induktsioonivoolu suund on selline, et tema magnetväli takistaks muutust, mis voolu põhjustab
 2. induktsioonivool toimib alati vastupidiselt seda voolu esile kutsuvale põhjusele;
 3. kui välismõju tingib magnetvoo kasvu kontuuris, siis on induktsioonivoolu magnetväli välise magnetvälja suhtes vastassuunaline (takistab kasvu). Kui aga välismõju põhjustab magnetvoo kahanemist, siis on induktsioonivoolu magnetväli välise magnetväljaga samasuunaline (takistab kahanemist).
 
 ---
-## Endainduktsioon ja punktinduktsioon
 
+## Endainduktsioon ja punktinduktsioon
 **Endainduktsiooniks** nimetatakse nähtust, kust induktsiooni elektromotoorjõu tekkimiseks vajalik magnetvoo muutus on põhjustatud voolu muutmisest juhtmes endas.
 
 Esineb näiteks siis kui vooluahelas on pool ja me üritame vooluahelast katkestada ja katkestamiskohas tekib tugev säde. Pool hakkab voolu muutumisel toimuma vooluallikana, mille elektromotoorjõudu nimetatakse endainduktsiooni elektromotoorjõuks
@@ -125,10 +124,12 @@ Juhtmesüsteemi vastavad omaduste kirjeldamiseks on kasutusele võetud induktiiv
 Juhi induktiivsus näitab, kui suure magnetvoo muutus tekitab selle juhi korral ühikuline voolu muutus.
 
 ---
-## Magnetvälja energia
 
+## Magnetvälja energia
 Tegelikult on tegemist vooluga poolis tekkiva energiaga.
 
 `W_m = L * I^2 / 2`
 
 ---
+
+# Järgmine ptk -  [[Elektromagnetlained]]
