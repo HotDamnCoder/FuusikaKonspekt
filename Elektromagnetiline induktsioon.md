@@ -39,7 +39,7 @@ Oluline on see, et juhe lõikaks magnetvälja jõujooni.
 
 Elektrivool tekib tänu **Lorentz’i jõule** - magnetväljas liikuvale laengule mõjuv jõud
 
-Vooluraami liikumine magnetväljas ei saa rääkida enam potentsiaalist (pinge mingi konkreetse punkti suhtes), sest
+Vooluraami liikumisel magnetväljas ei saa rääkida enam potentsiaalist (pinge mingi konkreetse punkti suhtes), sest
 
 * me ei saa eelistada ühtegi raami puntki teisele
 * töö kinnisel trajektooril ei ole 0
@@ -85,7 +85,7 @@ Magnetvoog sõltub:
 
 Magnetvoog on maksimaalne, kui pind on risti jõujoontega.
 
-Faraday seadus - induktsiooni elektromootorjõud on võrdeline magnetvooga muutmise kiirusega.
+Faraday seadus - induktsiooni elektromootorjõud on võrdeline magnetvoo muutmise kiirusega.
 
 `E_i = -ΔΦ / Δt` Miinus tuleb Lenz’i reeglist.
 

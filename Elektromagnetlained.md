@@ -12,7 +12,7 @@ Vahelduvvoolu iseloomustavad:
 * **periood (** `T` **)**
 * **hetkväärtus (** `i`**,** `u` )
 * **maksimaalsed väärtused (** `I_m`, `U_m` )
-* **efektiivväärtus (** `I` , `U` ) (Maksimaal väärtused jagatud ruutjuur kahega)
+* **efektiivväärtus (** `I_ef` , `U_ef` ) (Maksimaal väärtused jagatud ruutjuur kahega)
 
 Tavaliselt on vahelduvvoolu korra tegemist harmoonilise võnkumisega. Tegemist on sundvõnkumisega ehk perioodilise välisejõu mõjul tekitatud võnkumisega.
 
@@ -42,11 +42,12 @@ Vahelduvvoolu ahelas on 3 liiki takistusi:
 
 Pinge ja voolutugevus muutuvad samas faasis.
 
-**Induktviitakistus** `R_l`  on takistus, mida tekitab vahelduvoolu ahelasse lülitatud pool. Tekib tänu endainduktsiooninähtusele. Pinge ja takistus eri faasis.
+**Induktviitakistus** `R_l`  on takistus, mida tekitab vahelduvoolu ahelasse lülitatud pool. Tekib tänu endainduktsiooninähtusele. Pinge ja voolutugevus eri faasis.
 
+`w = 2pi * f`
 `R_l = X_l = w * L`
 
-**Mahutuvustakistus** `R_c` on takistus, mida tekitab vahelduvvoolu ahelasse lülitatud kondensaator. Pinge ja takistus eri faasis.
+**Mahutuvustakistus** `R_c` on takistus, mida tekitab vahelduvvoolu ahelasse lülitatud kondensaator. Pinge ja voolutugevus eri faasis.
 
 Kondensaatorit võib vaadelda lisa vooluallikana, mis takistab voolu muutumist.
 
@@ -163,7 +164,7 @@ Kiirgavate elektromagnetlainete energia kohta kehtib seos:
 * Suurem sagedus → paremini levib
 * Suurem sagedus → väiksem lainepikkus
 
-### Elektromagnetlainete omadused
+## Elektromagnetlainete omadused
 * Peegelduvad metallpindadelt
 * Esineb difraktsioon - paindumine tõkete taha
 * Esineb interferents - lainete liitumine
@@ -171,7 +172,7 @@ Kiirgavate elektromagnetlainete energia kohta kehtib seos:
 * Neelduvad
 * Tekivad ja kaovad kindlate energia portsjonite e kvantide kaupa `E = h * f`
 
-### Elektromagnetlainete skaala
+## Elektromagnetlainete skaala
 Sagedus ja lainepikkus on omavahel seotud.
 
 Jaotatakse sageduse põhjal:
@@ -185,4 +186,81 @@ Jaotatakse sageduse põhjal:
 * röntgenkiirgus
 * gammakiirgus
 
----
+### Madalsageduselained
+`f = 0 - 10^4 Hz`
+`λ = 10^4 m` ja suurem
+* Sisuliselt vahelduvvool
+* Tekitab vahelduvvoolu generaator
+* Levivad elektrijuhtides
+* Vaakumis või õhus levik väike
+* Põhimõtteliselt elektrienergialevik
+
+### Raadiolained
+`f = 10^5 - 10^12 Hz`
+`λ = 10^4 - 10^-4 m`
+* Elektromagnetilise info edastuse põhivahend
+	* kasutatakse raadios, televisoonis, radarites, telefonides
+* Tekitab suletud võnkering
+* Kiirgab avatud võnkering (antenn)
+
+Raadiolained jagunevad:
+1.  milli- ja sentimeetrilaineteks
+	* satelliidid, televisioon ja radarid
+2.  detsimeetrilaineteks
+	*  televisioon
+3.  meeterlaineteks
+	*  raadio
+
+Meeterlained jagunevad veel omakorda:
+1. (1 kuni 10m) Ultralühilaine (FM)
+	* ERR töötab selle sageduse peal
+	* FM - sagedus modulatsioon
+	* Antennid kõrged, saatjad väikse võimsusega
+2. Lühilaine (10 kuni 100m)
+	* kasutavad peamiselt raadioamatöörid
+3. Kesklaine (AM) (100 kuni 1000m)
+	* Eestis pole selliseid raadiojaame
+	* Antenn madal, saatja võimsus suurem
+	* Laineraadius suurem
+4. Pikklaine (1km või üle)
+	* saatjad suure võimsusega, levib hästi kaugele
+		* allveelaevad
+	* Venemaal kaks saatjad
+
+### Optilinelaine
+`f = 10^12 - 10^17 Hz`
+`λ = 10^-4 - 10^-8 m`
+1. Infravalgus e. soojuskiirgus
+	* tekib aatomite võnkumisel või pöörlemisel
+2. Nähtavvalgus
+	* tekitab aatomite väliskihtide elektronid
+3. Ultravalgus ehk UV
+	* tekitab aatomite väliskihtide elektronid
+	* tekitab päevitust
+
+### Röntgenkiirgus
+`f = 10^16 - 10^19 Hz`
+`λ = 10^-8 - 10^-11 m`
+
+Tekitamine:
+1. elektronide järsul pidurdamisel
+2. aatomite sisekihtide elektronide
+
+Kasutatakse meditsiinis, tungib läbi inimkeha, üldiselt paha
+
+### Gammakiirgus
+`f = 10^19 - 10^23 Hz`
+`λ = 10^-10 - 10^-14 m`
+
+* Tekib aatomituumades radioaktiivsel lagunemisel
+* Suur läbi tungimis võime
+* VÄGA PAHA (v.a Ida-Virumaal)
+
+### Üldine jutt
+Mida väiksem tekitaja, seda väiksem lainepikkus, seda suurem sagedus.
+Lained levivad üldiselt kindalate portsioonide ehk kvantide kaupa
+Mida suurem sagedus, seda väiksem lainepikkus, seda suurem energia, seda rohkem pahandust tekitab
+Mida väiksem sagedus, seda rohkem avalduvad laine omadused (nt: interferents ja diffraktsioon)
+
+
+

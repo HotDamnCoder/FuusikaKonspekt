@@ -6,11 +6,24 @@
       {
         "id": "95b64d8936e87be8",
         "type": "leaf",
+        "dimension": 57.3015873015873,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Elektromagnetlained.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f8d42528e313ae61",
+        "type": "leaf",
+        "dimension": 42.698412698412696,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Elektromagnetlained.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Elektromagnetlained.md"
               }
             }
           }
@@ -76,17 +89,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "95b64d8936e87be8",
   "lastOpenFiles": [
-    "README.md",
-    "Elektromagnetiline induktsioon.md",
-    "Alalisvool.md",
     "Elektromagnetlained.md",
-    "Magnetism.md",
+    "Elektromagnetiline induktsioon.md",
     "Elektrostaatika.md",
     "Sissejuhatus elektriõpetusse.md",
-    "Kosmoloogia.md"
+    "Alalisvool.md",
+    "Magnetism.md",
+    "Kosmoloogia.md",
+    "README.md"
   ]
 }
